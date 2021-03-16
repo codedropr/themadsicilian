@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @themadsicilian
 - 👀 I’m interested in anything cloud
 - 🌱 I’m currently learning all the things.
-- 💞️ I’m looking to collaborate on modern PHP development
+- 💞️ I’m looking to collaborate on modern PHP development.
 - 📫 How to reach me ... figure it out. ;)
 
 <!---
